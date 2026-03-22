@@ -58,12 +58,15 @@ Use this skill to evaluate architecture choices and turn ambiguous design discus
 
 ## Output Format
 Use this structure:
-- `Decision`
+- `Title`
+- `Status`
+- `Context`
 - `Options`
 - `Tradeoffs`
 - `Rejected options`
-- `Recommendation`
+- `Decision`
 - `Failure modes`
+- `Consequences`
 - `What to build now`
 - `What to defer`
 - `Open questions`
