@@ -7,6 +7,8 @@ description: Use when the user wants to compare architecture options, review a p
 
 Use this skill to evaluate architecture choices and turn ambiguous design discussions into concrete decisions.
 
+This skill is for decision analysis, not ADR file management. If the user wants to create, update, read, or maintain ADR documents, use `architecture-decision-records` instead.
+
 ## Workflow
 1. Challenge the premise.
 - Ask whether the stated problem is the real problem.
